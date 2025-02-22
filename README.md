@@ -5,7 +5,7 @@ This project implements a simple content-based movie recommendation system. Give
 
 ## Dataset
 - **Download Dataset**: [IMDB Movies Dataset](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data)
-- **movies.csv**: Contains ~100–500 movies with various attributes such as `Title`, `Genre`, `Director`, `Cast`, and `Description`.
+- **movies.csv**: Contains ~10000 movies with various attributes such as `Title`, `Genre`, `Director`, `Cast`, and `Description`.
 - These attributes are used to construct a meaningful representation of each movie.
 
 ## Setup
@@ -59,12 +59,8 @@ Top Recommendations:
 ```
 
 ## Short Video Demo
-Check `demo.md` for a quick walkthrough.
+Check [Demo Video](https://youtu.be/6UYoEWX0r4o) for a quick walkthrough.
 
-## Evaluation Criteria
-- **Functionality**: Produces relevant movie recommendations.
-- **Code Quality**: Clear workflow and well-commented code.
-- **Clarity**: README provides a simple and understandable guide.
-- **Recommendation Logic**: Uses TF-IDF and cosine similarity.
+## Salary Expectations
 
-**Enjoy building and experimenting with movie recommendations!**
+- **Monthly Salary Expectation:** $8,000 - $10,000 USD
